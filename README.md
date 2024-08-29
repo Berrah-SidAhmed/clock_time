@@ -12,4 +12,5 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/img/s1.png" height="500em" />&nbsp;<img src="assets/img/s2.png" height="500em" />
+<img src="assets/img/samsung-galaxy-coin-spin.png" height="500em" />&nbsp;<img src="assets/img/samsung-galaxy-tilted-zoom-out.png" height="500em" />
+nbsp;<img src="assets/img/untitled.gif" height="500em" />
